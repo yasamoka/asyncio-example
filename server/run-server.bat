@@ -1,0 +1,1 @@
+python server.py -ca ca.crt -key server.key -cert server.crt -host localhost -port 8000 -accounts accounts.json
